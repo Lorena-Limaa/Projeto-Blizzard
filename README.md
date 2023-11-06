@@ -1,11 +1,11 @@
-# Blizzard Landing Page
+# NEON Landing Page
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Lorena-Limaa/Projeto-Blizzard/blob/main/LICENSE)
 
 # Sobre o projeto
 
-https://landing-page-blizzard.netlify.app/
+https://landingpage-neon.netlify.app/
 
-Blizzard Landing Page é uma aplicação Web Front-End responsiva construída durante o curso Codeboost visando colocar em prática minhas habilidades em Javascript aprendidas no módulo anterior do curso.
+NEON Landing Page é uma aplicação Web Front-End responsiva construída durante o curso Codeboost visando colocar em prática minhas habilidades em Javascript.
 
 # Tecnologias utilizadas
 
@@ -14,7 +14,6 @@ Blizzard Landing Page é uma aplicação Web Front-End responsiva construída du
 - CSS
 - SASS
 - JavaScript
-- Gulp JS
 
 # Autora
 
