@@ -5,7 +5,7 @@
 
 https://landing-page-blizzard.netlify.app/
 
-Blizzard Landing Page é uma aplicação Web Front-End responsiva construída durante o curso Codeboost visando colocar em prática minhas habilidades em Javascript.
+A Blizzard Landing Page é uma aplicação Web Front-End responsiva construída durante o curso Codeboost, com o objetivo de colocar em prática as minhas habilidades em JavaScript.
 
 # Tecnologias utilizadas
 
