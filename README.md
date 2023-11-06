@@ -13,7 +13,7 @@ Blizzard Landing Page é uma aplicação Web Front-End responsiva construída du
 - HTML
 - CSS
 - SASS
-- JS
+- JavaScript
 - Gulp JS
 
 # Autora
@@ -21,3 +21,10 @@ Blizzard Landing Page é uma aplicação Web Front-End responsiva construída du
 Lorena Lima
 
 https://www.linkedin.com/in/lorena-lima-b79a32186/
+
+## Imagens
+
+<img src="img/Blizzard-01.png">
+<img src="img/Blizzard-02.png">
+<img src="img/Blizzard-03.png">
+<img src="img/Blizzard-04.png">
